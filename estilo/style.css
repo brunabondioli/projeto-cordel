@@ -60,7 +60,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 3.5vw;
+    font-size: 5vw;
 }
 
 section > p{
@@ -68,12 +68,12 @@ section > p{
 }
 
 section.normal{
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
 }
 
 section.imagem{
-    background-color: rgb(125, 125, 125);
+    background-color: white(255, 255, 255);
     color: whitesmoke;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.5);
     background-attachment: fixed;
